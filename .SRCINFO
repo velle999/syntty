@@ -1,7 +1,7 @@
 pkgbase = syntty
 	pkgdesc = SynapseOS terminal — a Wayland terminal that links no GL
 	pkgver = 0.1.0
-	pkgrel = 34
+	pkgrel = 35
 	url = https://github.com/velle999/SYNAPSE
 	arch = x86_64
 	license = GPL-2.0-or-later
@@ -14,7 +14,7 @@ pkgbase = syntty
 	depends = fontconfig
 	depends = wayland
 	depends = libxkbcommon
-	source = syntty-0.1.0.tar.gz::https://github.com/velle999/syntty/releases/download/0.1.0-34/syntty-0.1.0.tar.gz
+	source = syntty-0.1.0.tar.gz::https://github.com/velle999/syntty/releases/download/0.1.0-35/syntty-0.1.0.tar.gz
 	sha256sums = SKIP
 
 pkgname = syntty
